@@ -89,7 +89,7 @@ b.max-bold{ font-weight: 700; }
 .section .heading{ margin-bottom: 60px; }
 
 .section .heading:before{ content:''; height: 10px; width: 50px; border-radius: 5px;
-	margin-bottom: 20px; display: block; background: #FFCA68; }
+	margin-bottom: 20px; display: block; background: #86B0FF; }
 	
 .margin-t-10{ margin-top: 10px; }
 
@@ -112,7 +112,7 @@ b.max-bold{ font-weight: 700; }
 
 header{ position: absolute; top: 30px; left: 0; right: 0; z-index: 100; }
 
-header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: #FFAD01; color: #fff; }
+header .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; background: #86B0FF; color: #fff; }
 
 header .info{ margin-bottom: 10px; }
 
